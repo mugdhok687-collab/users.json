@@ -2,5 +2,14 @@
   "users": [
     { "username": "1", "password": "1", "hwid": "BFEBFBFF000306C3" },
     { "username": "testuser", "password": "abcd", "hwid": "1234567890ABCDEF" }
+      { "username": "Shihab", "password": "4", "hwid": "178BFBFF00A50F00" },
+    { "username": "Sagor", "password": "4", "hwid": "BFEBFBFF000A0671" },
+    { "username": "Rony", "password": "48", "hwid": "178BFBFF00810F81" },
+    { "username": "Nafiz", "password": "4", "hwid": "BFEBFBFF000306C3" },
+    { "username": "U", "password": "4", "hwid": "BFEBFBFF000A0655" },
+    { "username": "Lubna000", "password": "Lubna000", "hwid": "BFEBFBFF000906E9" },
+     { "username": "Ahsu", "password": "4", "hwid": "178BFBFF008A0F00" },
+    { "username": "Simon", "password": "4", "hwid": "BFEBFBFF000906E9" },
+    { "username": "MJ", "password": "4", "hwid": "BFEBFBFF000806E9" }
   ]
 }
