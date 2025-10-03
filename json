@@ -1,6 +1,6 @@
 {
   "users": [
     { "username": "1", "password": "1", "hwid": "BFEBFBFF000306C3" },
-    { "username": "Simon", "password": "4", "hwid": "BFEBFBFF000906E9" }
+    { "username": "123", "password": "123", "hwid": "BFEBFBFF000906E9" }
   ]
 }
