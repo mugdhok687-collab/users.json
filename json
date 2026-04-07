@@ -1,22 +1,6 @@
 {
   "users": [
     { "username": "1", "password": "1", "hwid": "BFEBFBFF000306C3" },
-    { "username": "123", "password": "123", "hwid": "BFEBFBFF000906E9" },
-    { "username": "JONI", "password": "4", "hwid": "BFEBFBFF000506E3" },
-    { "username": "NISO", "password": "4", "hwid": "BFEBFBFF000506E3" },
-    { "username": "roy", "password": "4", "hwid": "BFEBFBFF000A0653" },
-    { "username": "4", "password": "4", "hwid": "" },
-    { "username": "NAFIZ", "password": "4", "hwid": "BFEBFBFF000306C3" },
-    { "username": "11", "password": "11", "hwid": "BFEBFBFF000706A8" },
-    { "username": "drakleafx", "password": "621467", "hwid": "178BFBFF00A50F00" },
-    { "username": "SHIMUL", "password": "4", "hwid": "178BFBFF00A50F00" },
-    { "username": "NISO", "password": "4", "hwid": "BFEBFBFF000506E3" },
-    { "username": "4", "password": "4", "hwid": "" },
-    { "username": "MUSHFIQ", "password": "4", "hwid": "178BFBFF00810F81" },
-     { "username": "4", "password": "4", "hwid": "" },
-    { "username": "BOSS", "password": "4", "hwid": "178BFBFF00A20F12" },
-    { "username": "2", "password": "2", "hwid": "" },
-    { "username": "2", "password": "2", "hwid": "" },
-    { "username": "2", "password": "2", "hwid": "" }
+    
   ]
 }
