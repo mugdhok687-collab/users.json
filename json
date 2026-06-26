@@ -1,6 +1,20 @@
 {
   "users": [
     { "username": "110", "password": "999", "hwid": "BFEBFBFF000306C3" },
-    
+    { "username": "FOX", "password": "123", "hwid": "BFEBFBFF000706A8" },
+    { "username": "JONI", "password": "4", "hwid": "BFEBFBFF000506E3" },
+    { "username": "NISO", "password": "4", "hwid": "BFEBFBFF000506E3" },
+    { "username": "RAJA", "password": "4", "hwid": "BFEBFBFF000306C3" },
+    { "username": "NAFIZ", "password": "4", "hwid": "BFEBFBFF000306C3" },
+    { "username": "drakleafx", "password": "621467", "hwid": "178BFBFF00A50F00" },
+    { "username": "SHIMUL444", "password": "0008", "hwid": "178BFBFF00A50F00" },
+    { "username": "NISO", "password": "4", "hwid": "BFEBFBFF000506E3" },
+    { "username": "UTSOB", "password": "4", "hwid": "BFEBFBFF000B06A2" },
+    { "username": "MUSHFIQ", "password": "4", "hwid": "178BFBFF00810F81" },
+     { "username": "4", "password": "4", "hwid": "" },
+    { "username": "BOSS", "password": "4", "hwid": "178BFBFF00A20F12" },
+    { "username": "2", "password": "2", "hwid": "" },
+    { "username": "2", "password": "2", "hwid": "" },
+    { "username": "2", "password": "2", "hwid": "" }
   ]
 }
