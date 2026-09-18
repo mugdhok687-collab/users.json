@@ -1,6 +1,6 @@
 {
   "users": [
-    { "username": "110", "password": "999", "hwid": "BFEBFBFF000306C3" }
+    { "username": "110", "password": "999", "hwid": "BFEBFBFF000306C3" },
     { "username": "FOX", "password": "123", "hwid": "BFEBFBFF000706A8" },
     { "username": "23ERRJONI", "password": "4", "hwid": "BFEBFBFF000506E3" },
     { "username": "NISO", "password": "4", "hwid": "BFEBFBFF000506E3" },
@@ -15,6 +15,6 @@
     { "username": "7777u67NAYEM", "password": "56774", "hwid": "178BFBFF00810F10" },
     { "username": "SIMON", "password": "4", "hwid": "BFEBFBFF000906E9" },
     { "username": "2", "password": "2", "hwid": "" },
-    { "username": "2", "password": "2", "hwid": "" }
+    { "username": "2", "password": "2", "hwid": "" },
   ]
 }
